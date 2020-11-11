@@ -1,3 +1,4 @@
 **/.DS_Store
 Images/      # ignore all files in the Image folder
-*.jpg.          # ignore all image files
+*.jpg        # ignore all image files
+*.jpeg
